@@ -1,0 +1,2 @@
+INSERT INTO car_rental.car (id, brand, car_status, model, power, price) VALUES (1, 'c', 0, 'c', 333, 444);
+INSERT INTO car_rental.car (id, brand, car_status, model, power, price) VALUES (2, 'd', 1, 'd', 999, 500);
