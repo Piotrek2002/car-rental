@@ -51,6 +51,7 @@ class CarControllerTest {
         assertEquals(1, response.getBody().size());
     }
 
+
     @Test
     void findAllRentedCars() throws URISyntaxException {
         RequestEntity<Void> request = RequestEntity
